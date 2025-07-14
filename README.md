@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Marcello
 
 I am a full-stack web developer with a passion for web design.
+> Website: [marcellonovelli.com](https://marcellonovelli.com)
 
 - 🔭 I’m currently working on Stackzero and as a freelance web developer
 - 🌱 I’m currently learning Terraform / AWS ECS / React v19
