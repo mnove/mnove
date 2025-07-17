@@ -6,7 +6,7 @@ I am a full-stack web developer with a passion for web design.
 > If you are looking for the UI Library: [stackzero-labs/ui](https://github.com/stackzero-labs/ui)
 
 - 🔭 I’m currently bulding [stackzero-labs/ui](https://github.com/stackzero-labs/ui) 
-- 🌱 I’m currently learning Terraform / AWS ECS / React v19
+- 🌱 I’m currently learning Terraform / AWS ECS
 - 💬 Ask me about: Tech, Software, Startups
 - 📫 How to reach me: marcello.nov21@gmail.com
 - 😄 Favorite joke: Two bytes meet. First byte asks, "Are you ill?" - Second byte replies, "No, just feelin a bit off"
