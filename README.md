@@ -3,7 +3,9 @@
 I am a full-stack web developer with a passion for web design.
 > Website: [marcellonovelli.com](https://marcellonovelli.com)
 
-- 🔭 I’m currently working on Stackzero and as a freelance web developer
+> If you are looking for the UI Library: [stackzero-labs/ui](https://github.com/stackzero-labs/ui)
+
+- 🔭 I’m currently bulding [stackzero-labs/ui](https://github.com/stackzero-labs/ui) 
 - 🌱 I’m currently learning Terraform / AWS ECS / React v19
 - 💬 Ask me about: Tech, Software, Startups
 - 📫 How to reach me: marcello.nov21@gmail.com
