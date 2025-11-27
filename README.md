@@ -1,4 +1,4 @@
 ## Hi 👋, I'm Marcello
 
-Design Engineer > Developer > Entrepreneur 
+Design Engineer | Developer | Entrepreneur 
 > Website: [marcellonovelli.com](https://marcellonovelli.com)
